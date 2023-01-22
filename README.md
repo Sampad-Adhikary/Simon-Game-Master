@@ -10,7 +10,8 @@ WELCOME TO MY REPOSITORY
 
 HOW TO PLAY:
 
--> Press Enter on keyboard to Start
+-> Press Enter on keyboard to Start or on Screen
+
 -> The Game gives you a pattern of button clicks by pressing and playing unique sounds of each button
 
 -> You need to repplicate the pattern after each button press from the system
@@ -19,4 +20,4 @@ HOW TO PLAY:
 
 -> If you fail the game is over.
 
--> But hey don't worry, you can restart the game by again pressing Enter key on your keyboard.
+-> But hey don't worry, you can restart the game by again pressing Enter key on your keyboard or on screen.
