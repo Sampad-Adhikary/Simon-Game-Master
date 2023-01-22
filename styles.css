@@ -69,21 +69,21 @@ a{
   box-shadow: 3px 3px 23px 8px rgba(0,0,0,0.75);
 }
 .enter {
+  margin: 25px;
+  display: inline-block;
+  height: 70px;
+  width: 200px;
+  border-radius: 20px;
   background: #74ebd5;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right, #ACB6E5, #74ebd5);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #ACB6E5, #74ebd5); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   box-shadow: 3px 3px 23px 8px rgba(0,0,0,0.75);
-  margin: 25px;
-  display: inline-block;
-  height: 70px;
-  width: 300px;
-  border-radius: 20px;
-  font-size: 1.5rem;
 }
 p{
   font-family: 'Press Start 2P', cursive;
   text-align: center;
   vertical-align: middle;
+  font-size: 1.5rem;
 }
 
 .pressed {
