@@ -2,7 +2,7 @@
 
 WELCOME TO MY REPOSITORY
 
--> SIMON GAME is a mini project created using HTML, CSS, JavaScript adn Jquery.
+-> SIMON GAME is a mini project created using HTML, CSS, JavaScript adn Jquery. /n
 -> This is a part of my full stack web development course on Udemy by Anjela U
 -> I have used advanced Javascript DOM and jquery
 
