@@ -5,6 +5,15 @@ var userClickedPattern = [];
 var started = false;
 var level = 0;
 
+$("#Enter").click(function () { 
+    if(started == false ){
+        $("#level-title").text("Level "+ level);
+        nextSequence();
+        started = true;
+        $("body").removeClass("game-over");  
+        $("#level-title").css("color","#FEF2BF");                        
+    } 
+});
 
 $(document).keypress(function (e) {
     if(started == false && e.key == "Enter"){
