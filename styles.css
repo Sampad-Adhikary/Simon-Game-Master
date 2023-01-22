@@ -1,0 +1,77 @@
+body {
+  text-align: center;
+  background-image: linear-gradient(135deg, #536976 10%, #292E49 100%);
+}
+
+#game-title{
+  font-family: 'Press Start 2P', cursive;
+  margin:  2%;
+  font-size: 2.5rem;
+  color: #FEF2BF;
+}
+
+#level-title {
+  
+  font-family: 'VT323', cursive;
+  font-size: 6rem;
+  margin:  3%;
+  color: #FEF2BF;
+}
+
+footer{
+  font-family: 'VT323', cursive;
+  margin:  2%;
+  font-size: 1.5rem;
+  color: #FEF2BF;
+}
+a{
+  text-decoration: none;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  /* border: 10px solid black; */
+  border-radius: 20%;
+}
+
+.game-over {
+  background-image: linear-gradient(135deg, #FFE985 10%, #FA742B 100%);
+  opacity: 0.8;
+}
+
+.red {
+  background-image: linear-gradient(135deg, #A71D31 10%, #3F0D12 100%);
+  box-shadow: 3px 3px 23px 8px rgba(0,0,0,0.75);
+}
+
+.green {
+  background-image: linear-gradient(135deg, #81FBB8 10%, #28C76F 100%);
+  box-shadow: 3px 3px 23px 8px rgba(0,0,0,0.75);
+}
+
+.blue {
+  background-image: linear-gradient(135deg, #0acffe 10%, #495aff 100%);
+  box-shadow: 3px 3px 23px 8px rgba(0,0,0,0.75);
+}
+
+.yellow {
+  background-image: linear-gradient(135deg, #FDEB71 10%, #F8D800 100%);
+  box-shadow: 3px 3px 23px 8px rgba(0,0,0,0.75);
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: wheat;
+  opacity: 0.8;
+}
